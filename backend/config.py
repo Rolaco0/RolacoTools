@@ -14,7 +14,7 @@ DEFAULT_HEADERS = {
     "Sec-Fetch-Site": "cross-site",
 }
 
-API_MANIFEST_URL = "https://raw.githubusercontent.com/madoiscool/lt_api_links/refs/heads/main/load_free_manifest_apis"
+API_MANIFEST_URL = "https://raw.githubusercontent.com/Rolaco0/lt_api_links-main/refs/heads/main/load_free_manifest_apis"
 API_MANIFEST_PROXY_URL = "https://RolacoTools.vercel.app/load_free_manifest_apis"
 API_JSON_FILE = "api.json"
 
@@ -27,7 +27,7 @@ HTTP_PROXY_TIMEOUT_SECONDS = 15
 
 UPDATE_CHECK_INTERVAL_SECONDS = 2 * 60 * 60  # 2 hours
 
-USER_AGENT = "discord(dot)gg/R7GJKRyat"
+USER_AGENT = "discord(dot)gg/luatools"
 
 LOADED_APPS_FILE = "loadedappids.txt"
 APPID_LOG_FILE = "appidlogs.txt"
