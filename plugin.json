@@ -3,7 +3,7 @@
   "name": "RolacoTools",
   "common_name": "RolacoTools",
   "description": "RolacoTools Steam Tools",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "backendType": "lua",
   "include": [
     "public"
