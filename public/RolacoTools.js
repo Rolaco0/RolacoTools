@@ -1767,6 +1767,8 @@
                   const msg =
                     payload && payload.message
                       ? String(payload.message)
+                      : payload && payload.error
+                        ? String(payload.error)
                       : lt("No updates available.");
                   ShowRolacoToolsAlert("RolacoTools", msg);
                 } catch (_) {}
